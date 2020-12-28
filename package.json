@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/Jovahkin259/CLMessageGenerator/issues"
   },
-  "homepage": "https://github.com/Jovahkin259/CLMessageGenerator#readme"
+  "homepage": "https://github.com/Jovahkin259/CLMessageGenerator#readme",
+  "dependencies": {
+    "csv-parse": "^4.14.2",
+    "fs": "^0.0.1-security"
+  }
 }
