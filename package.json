@@ -1,0 +1,27 @@
+{
+  "name": "clmessagegenerator",
+  "version": "1.0.0",
+  "description": "Generates a random message and prints to the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jovahkin259/CLMessageGenerator.git"
+  },
+  "keywords": [
+    "message",
+    "generator",
+    "command",
+    "line",
+    "cowsay",
+    "fortune"
+  ],
+  "author": "Joshua Astle <jovahkin259@gmail.com> (https:jovahkin259.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jovahkin259/CLMessageGenerator/issues"
+  },
+  "homepage": "https://github.com/Jovahkin259/CLMessageGenerator#readme"
+}
