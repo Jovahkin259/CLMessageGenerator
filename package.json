@@ -26,6 +26,7 @@
   "homepage": "https://github.com/Jovahkin259/CLMessageGenerator#readme",
   "dependencies": {
     "csv-parse": "^4.14.2",
+    "csv-stringify": "^5.6.0",
     "fs": "^0.0.1-security"
   }
 }
