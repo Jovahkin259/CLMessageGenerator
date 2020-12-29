@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Jovahkin259/CLMessageGenerator/issues"
   },
-  "homepage": "https://github.com/Jovahkin259/CLMessageGenerator#readme"
+  "homepage": "https://github.com/Jovahkin259/CLMessageGenerator#readme",
+  "dependencies": {
+    "convert-csv-to-json": "^1.0.2"
+  }
 }
