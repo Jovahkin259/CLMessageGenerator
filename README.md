@@ -6,6 +6,7 @@ Generates a random message in the terminal using a naive implementation with Nod
 
 ![Usage Demo](./demo/demo.gif)
 
+
 ---
 
 ## Dependencies
@@ -19,6 +20,7 @@ Generates a random message in the terminal using a naive implementation with Nod
 To install dependencies, clone this repo and run `npm install` in the root directory.
 
 This implementation depends on *'quotes.csv'* being located in the same directory as *'index.js'*
+
 
 ---
 
